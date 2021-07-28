@@ -1,2 +1,2 @@
 # Pure-Persuit-Problem
-Output is Given in . jpg file
+Output is Given in . jpeg file
